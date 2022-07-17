@@ -33,7 +33,7 @@ Latest Medium articles
 
 ### Own projects at AppStore
 
-![Weight_Training_Journal](https://img.shields.io/badge/-Weight_Training_Journal-000000?style=for-the-badge&logo=appstore)
+[![Weight_Training_Journal](https://img.shields.io/badge/-Weight_Training_Journal-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/zw/app/weight-training-journal/id1598717869)
 [![Ready_Flashcards](https://img.shields.io/badge/-Ready_Flashcards-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/us/app/ready-flashcards/id1614090939)
 [![Pro_Interval_Timer_Plus](https://img.shields.io/badge/-Pro_Interval_Timer_Plus-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/ua/app/pro-interval-timer-plus/id1587166182)
 
