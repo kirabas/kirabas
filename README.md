@@ -35,3 +35,7 @@ Latest Medium articles
 ![Weight_Training_Journal](https://img.shields.io/badge/-Weight_Training_Journal-000000?style=for-the-badge&logo=appstore)
 [![Ready_Flashcards](https://img.shields.io/badge/-Ready_Flashcards-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/us/app/ready-flashcards/id1614090939)
 [![Pro_Interval_Timer_Plus](https://img.shields.io/badge/-Pro_Interval_Timer_Plus-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/ua/app/pro-interval-timer-plus/id1587166182)
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/APq8NmgsuCY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0vTcbIaZbMc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
