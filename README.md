@@ -22,7 +22,12 @@ Latest Medium articles
 ![Photoshop](https://img.shields.io/badge/-Photoshop-000000?style=for-the-badge&logo=Photoshop)
 ![Canva](https://img.shields.io/badge/-Canva-000000?style=for-the-badge&logo=Canva)
 
+### Follow me
 
-Follow me
+[![Linkedin](https://img.shields.io/badge/-Linkedin-000000?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kiyakovlev/)
+[![Twitter](https://img.shields.io/badge/-Twitter-000000?style=for-the-badge&logo=twitter)](https://twitter.com/networking_king)
+[![Facebook](https://img.shields.io/badge/-Facebook-000000?style=for-the-badge&logo=facebook)](https://www.facebook.com/kirill.yakovlev1/)
+[![Youtube](https://img.shields.io/badge/-Youtube-000000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCBr33WN3vw1CNeCwXjVUsBQ)
+[![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@readyflashcards)
 
 
