@@ -30,4 +30,8 @@ Latest Medium articles
 [![Youtube](https://img.shields.io/badge/-Youtube-000000?style=for-the-badge&logo=youtube)](https://www.youtube.com/channel/UCBr33WN3vw1CNeCwXjVUsBQ)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=for-the-badge&logo=medium)](https://medium.com/@readyflashcards)
 
+### Own projects at AppStore
 
+![Weight_Training_Journal](https://img.shields.io/badge/-Weight_Training_Journal-000000?style=for-the-badge&logo=appstore)
+[![Ready_Flashcards](https://img.shields.io/badge/-Ready_Flashcards-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/us/app/ready-flashcards/id1614090939)
+[![Pro_Interval_Timer_Plus](https://img.shields.io/badge/-Pro_Interval_Timer_Plus-000000?style=for-the-badge&logo=appstore)](https://apps.apple.com/ua/app/pro-interval-timer-plus/id1587166182)
